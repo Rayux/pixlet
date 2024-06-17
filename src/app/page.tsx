@@ -10,7 +10,7 @@ export default function Page() {
         </nav>
       </header>
       <div className="flex grow flex-col items-center justify-center gap-4 mt-10">
-        <img src="path_to_image" alt="Art" className="w-20 h-20" />
+        <img src="path_to_image" alt="animation" className="w-20 h-20" />
         <p className="text-2xl text-gray-800 md:text-3xl md:leading-normal text-center">
           <strong>Get 5 chances to guess the year of ____</strong>
         </p>
