@@ -1,0 +1,29 @@
+.content {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 8rem;
+    margin: auto;
+}
+
+.pictureContainer {
+    display: flex;
+    margin: auto;
+    background-color: white;
+    border: 1px;
+    border-radius: 8px;
+    width: 22rem;
+    height: 22rem;
+}
+
+.genImg {
+    display: flex;
+    margin: auto;
+    background-color: gainsboro;
+    border: 1px;
+    border-radius: 4px;
+    width: 20rem;
+    height: 20rem;
+}
